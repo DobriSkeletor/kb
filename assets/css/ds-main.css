@@ -1,0 +1,74 @@
+/* begin: theme tweaks */
+
+.git-wiki-tools {
+    display: none;
+}
+
+footer {
+    padding-left: 0px;
+}
+
+.git-wiki-copyrights {
+    text-align: left;
+    font-size: x-small;
+}
+
+.git-wiki-copyrights p {
+    margin-bottom: 1px;
+}
+
+.git-wiki-main-logo img {
+  mix-blend-mode: difference;
+}
+
+.git-wiki-page img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* end: theme tweaks */
+
+/* begin: custom elements */
+
+.alert {
+    border-radius: 8px;
+    background-color: #d44336;
+    color: black;
+    margin-right: auto;
+    max-width: 50%;
+}
+
+.alert p::before {
+    vertical-align: middle;
+    padding: 2px 3px 7px 0px;
+    font-weight: bold !important;
+    font-size: 2em;
+    color: black;
+    content: "\26A0";
+}
+
+.alert p {
+    padding: 2px 3px 4px 0px;
+    text-shadow: 1px 1px 2px #9d0000;
+}
+
+.darkmode--activated .alert {
+  mix-blend-mode: difference;
+}
+
+.footnotes::before {
+    content: "§";
+    text-align: center;
+    font-weight: bold;
+    width: 100%;
+    display: block;
+}
+
+.footnotes {
+    margin-left: -20px;
+    margin-top: 40px;
+    font-size: smaller;
+}
+
+/* end: custom elements */
