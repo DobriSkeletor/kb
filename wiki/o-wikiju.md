@@ -21,6 +21,10 @@ funkcionirati u vašoj konkretnoj situaciji. Nešto što funkcionira za autora o
 Budite kritični prema svemu i prilagodite sve s ovih stranica _vama_. Iako je imitacija jedan od lijepih oblika
 komplimentiranja, bolje je ako ne imitirate nikoga i razvijete svoj stil komunikacije.
 
+Osim toga, postoje vrlo velike šanse da se nećete složiti s nekim stavovima koje ćete pročitati na ovim stranicama. To je
+_savršeno normalno_, i dapače _poželjno_, dokle god imate dobre argumente i razloge koje ste sami sa sobom razjasnili, i
+možete ih drugima oko sebe objasniti na jednostavan način.
+
 Za kraj, malo toga na ovim stranicama je originalno, većina informacija i savjeta postoji na drugim mjestima po internetu
 i knjigama. Ovo je samo mjesto gdje je dio stvari prikupljen iz praktičnih razloga, i savjetujem svima da sami potraže
 dodatne informacije o svemu napisanom (vidi: [resursi](resursi)).

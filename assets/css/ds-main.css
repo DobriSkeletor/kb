@@ -25,6 +25,38 @@ footer {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    max-height: 400px;
+}
+
+.git-wiki-page .side img {
+    float: right;
+    max-width: 300px;
+}
+
+.git-wiki-page .full img {
+    max-height: none;
+    max-width: 80%;
+}
+
+#git-wiki-content {
+    text-rendering: optimizeLegibility;
+}
+
+#git-wiki-content h1 {
+    /*text-shadow: 1px 1px 2px pink;*/
+    text-shadow: 0 1px 3px rgba(0,0,0,.5);
+}
+
+#git-wiki-content h2 {
+    font-size: 24px;
+}
+
+#git-wiki-content h3 {
+    font-size: 22px;
+}
+
+#git-wiki-content h4 {
+    font-size: 20px;
 }
 
 /* end: theme tweaks */
@@ -53,7 +85,9 @@ footer {
     text-shadow: 1px 1px 2px #9d0000;
 }
 
-.darkmode--activated .alert {
+.darkmode--activated .alert,
+.darkmode--activated .blend,
+.darkmode--activated .spoiler {
   mix-blend-mode: difference;
 }
 
@@ -69,6 +103,10 @@ footer {
     margin-left: -20px;
     margin-top: 40px;
     font-size: smaller;
+}
+
+.centered {
+    text-align: center;
 }
 
 /* end: custom elements */

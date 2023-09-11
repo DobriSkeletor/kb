@@ -29,16 +29,16 @@ argumente iznesene na ovoj stranici (vidi: [Ad hominem](ad-hominem)).
     biti. Twitter je trenutno glavna komunikacijska platforma, a na ovom Wikiju se nalaze stvari koje ne odgovaraju Twitter
     formatu, i još nisu pretvorene u video.
 
-[^2]: Aktivnost u smislu gdje su najveće šanse da će nešto novo biti objavljeno. Trenutno je to Twitter, iako je plan
-    bio da bude gotovo isključivo YouTube. Nažalost, izrada videa traži puno slobodnog vremena (pisanje skripte i
-    istraživanje, snimanje i edtiiranje audia, i samo editiranje videa).
+[^2]: Aktivnost u smislu gdje su najveće šanse da će nešto novo biti objavljeno. Trenutno je to Twitter, iako je
+    originalni plan bio da bude gotovo isključivo YouTube. Nažalost, izrada videa uključuje pisanje skripte i
+    istraživanje, snimanje i editiranje audia, te samo editiranje videa, pa zato zahtjeva jako puno vremena i fokusa.
 
 ### Kako mogu podržati Dobrog Skeletora?
 
 Najlakši način je pomoć s algoritmima: ako vam se sviđa sadržaj, podijelite ga po društvenim mrežama, _lajkajte sve što
 lajkaju mladi_, i u gdje je to moguće, kliknite i na prokleti _Subscribe_. Svaki lajk i subscription govori algoritmima
-da je to nešto što se isplati prikazati više ljudi. Sve je monetizirano, i sve platforme samo gledaju kako ljude
-prilijepiti za ekran. Ovako možete pomoći da bar sadržaj koji se koristi za to ne bude ustaško/četničko smeće, kojeg ima
+da je to nešto što se isplati prikazati drugim ljudima. Sve je monetizirano, i sve platforme samo gledaju kako ljude
+prilijepiti za ekran. Ovako možete pomoći da bar sadržaj koji se koristi za to ne bude ustaško-četničko smeće, kojeg ima
 poprilično.
 
 Ako imate ideju za video / članak / objavu, slobodno se javite, ali nema garancije da će nešto biti objavljeno jer
