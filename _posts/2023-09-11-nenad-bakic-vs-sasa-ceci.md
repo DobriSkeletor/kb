@@ -253,12 +253,26 @@ Također, smije se Bakić, ni zbrojevi nisu u redu:
 ![net.hr tablica]({{ 'assets/img/bakic-vs-ceci/sasa-covid-net-hr-2022.webp' | relative_url }})
 
 I zaista, zbrojevi _nisu_ u redu. Međutim, samo malo detaljniji pogled govori i zašto: zadnji redak tablice nije
-uključen u zbroj na vrhu. Postoji više razloga zašto je moglo doći do greške, od lošeg kopiranja, do greške u unosu
-formule, itd.
+uključen u zbroj na vrhu. ~~Postoji više razloga zašto je moglo doći do greške, od lošeg kopiranja, do greške u unosu
+formule, itd.~~
 
-Da li je to loše? Naravno.
+**2023-09-13 Nove informacije su pristigle u redakciju** (by [Saša Ceci
+osobno](https://www.facebook.com/sasa.ceci/posts/pfbid02S94fvSJ9eNe1QBcXsN4XAkgs6SutBMx8DLMQnwezQrtdAzjzWgYHuZhAc8pyP1RCl))
 
-Znači li to da je Saša Ceci odradio loš posao u toj objavi? Definitivno.
+Razlog zašto zadnji redak nije zbrojen je sljedeći: zadnja dva retka su "Intenzivna" i "Od toga respirator". "Od toga
+respirator" je _podskup retka_ Intenzivna. Drugim riječima, od dvanaest necijepljenih koji su završili na intenzivnoj,
+osam je završilo na respiratoru (što ima smisla ako malo razmislimo o značenju ovih redaka).
+
+Odnosno, za Bakiće među nama: _četvrti redak nije uključen u zbroj jer je već uključen kroz treći redak_.
+
+Možemo stoga zaključiti da Ceci _nije pogriješio u zbrajanju, nego eventualno u nejasnom grafičkom prikazu_. Ovo je
+primjer kako je tablica _mogla_ izgledati da bi stvari bile jasnije nama laicima:
+
+![net.hr tablica ispravak]({{ 'assets/img/bakic-vs-ceci/sasa-covid-net-hr-2022-bugfix.webp' | relative_url }})
+
+Da li je to loše za javnu komunikaciju? Naravno.
+
+Znači li to da je Saša Ceci odradio _relativno_ loš posao u toj objavi? Definitivno.
 
 Znači li to da je Saša Ceci loš znanstvenik i da IRB treba demolirati? Naravno da ne.
 
@@ -278,7 +292,7 @@ smiješni klaun željan pozornosti.
 Dakle, poprilično je očito da je Ceci objavio na desetke, ako ne i stotine grafova i statistika vezanih uz COVID.
 Dapače, u trenutku pisanja ovog teksta, izgleda kao da to [još uvijek
 radi](https://www.facebook.com/sasa.ceci/posts/pfbid02MQQ6RTioEdZB7Br638fbqg9Augm14g9D4aVYvGiTkifXPrBBChJ6jjPGManiYZ6jl).
-Bakić se, kao i svaki pravi spin doktor, uhvatio objave u kojoj je pronašao grešku sa zbrajanjem. Drago mi je da je
+Bakić se, kao i svaki pravi spin doktor, uhvatio objave u kojoj je pronašao "grešku" sa zbrajanjem. Drago mi je da je
 pronašao praktičnu primjenu svoje diplome, makar u ulozi medijskog antivakserskog klauna.
 <span class="blend">&#x1f921;</span>
 
