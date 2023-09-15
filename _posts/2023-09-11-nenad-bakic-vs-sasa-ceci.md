@@ -362,11 +362,21 @@ s diplomama iz matematike daje virtualne šamare po medijima.
 Naravno da je bolje da naš novac glođe znanost umjesto "poduzetništva", jer se sav napredak u zadnjih par stotina godina
 dogodio upravo zahvaljujući znanosti, a ne "poduzetništvu", kako neki sami sebi tepaju.
 
-Ipak, vrhunac ove stavke je to što Bakić-Kugoljub smatra Domazeta-Lošu "svijetlim izuzetkom". To je super, jer onda mi
+> ~~Ipak, vrhunac ove stavke je to što Bakić-Kugoljub smatra Domazeta-Lošu "svijetlim izuzetkom". To je super, jer onda mi
 ne moramo ništa dodatno komentirati: Domazet-Lošo je čovjek koji širi [antivakserske teorije zavjere o čipiranju po
 ustaško-četničkim
 časopisima](https://www.index.hr/vijesti/clanak/opskurni-hrvatski-tjednik-pomocu-cjepiva-za-koronavirus-ugradit-ce-nam-cip-za-nadzor/2175776.aspx).
-Izgleda da se Bakić osjeća sasvim ugodno u tom društvu, što govori dovoljno o njegovom velikom intelektu, ali i o moralu.
+Izgleda da se Bakić osjeća sasvim ugodno u tom društvu, što govori dovoljno o njegovom velikom intelektu, ali i o moralu.~~
+
+**2023-09-15 Ispravak:** Izgleda da sam u neznanju obiteljskog stabla zamijenio _oca_ Domazeta-Lošu (Davor) sa _sinom_
+Domazet-Lošom (Tomislav), koji je i _pravi_ [znanstvenik](https://www.irb.hr/eng/About-RBI/People/Tomislav-Domazet-Loso).
+Na prvu mi nije bilo jasno zašto bi Bakić cijenio ijednog pravog znanstvenika i proglasio ga "svijetlim izuzetkom", ali
+magija pretraživanja je i na to dala odgovor: _Tomislav_ Domazet-Lošo je također širio antivaksersku propagandu po
+medijima tako što je - između ostalog - [cijepljenje proglasio "molekularnim tetoviranjem" te "moralnim i duhovnim
+silovanjem"](https://www.index.hr/vijesti/clanak/siri-se-video-domazetlose-o-mrna-cjepivima-znanstvenici-razina-teorije-zavjera/2324091.aspx).
+Da, dobro ste pročitali: _cjepivo je silovanje_, kaže Bakićev "svijetli izuzetak". Toliko o kredibilitetu.
+
+Istina, nisu _ćaćine_ teorije o čipiranju, ali jabuka očito ne pada daleko od stabla.
 
 ## Komentari - Infodemija i COVID
 

@@ -36,7 +36,7 @@ argumente iznesene na ovoj stranici (vidi: [Ad hominem](ad-hominem)).
 ### Kako mogu podržati Dobrog Skeletora?
 
 Najlakši način je pomoć s algoritmima: ako vam se sviđa sadržaj, podijelite ga po društvenim mrežama, _lajkajte sve što
-lajkaju mladi_, i u gdje je to moguće, kliknite i na prokleti _Subscribe_. Svaki lajk i subscription govori algoritmima
+lajkaju mladi_, i gdje je to moguće, kliknite i na prokleti _Subscribe_. Svaki lajk i subscription govori algoritmima
 da je to nešto što se isplati prikazati drugim ljudima. Sve je monetizirano, i sve platforme samo gledaju kako ljude
 prilijepiti za ekran. Ovako možete pomoći da bar sadržaj koji se koristi za to ne bude ustaško-četničko smeće, kojeg ima
 poprilično.
