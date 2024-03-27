@@ -109,4 +109,12 @@ footer {
     text-align: center;
 }
 
+.smaller {
+    font-size: smaller;
+}
+
+.larger {
+    font-size: larger;
+}
+
 /* end: custom elements */
