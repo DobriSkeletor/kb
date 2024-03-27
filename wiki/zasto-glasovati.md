@@ -190,7 +190,11 @@ vrijedi i za marksiste istih sklonosti.
 Mala napomena što se tiče medija i politike, odnosno šire - medija i bilo čega.
 
 Moderni _slobodnotržišni_ mediji su neponovljivo smeće. Nikad prije u povijesti novinarstva kao struke situacija nije
-bila tako sramotna i porazna.
+bila tako sramotna i porazna. Sve što pročitate u medijima je neka vrsta _spina_, a što je neka politička veća opasnost
+za režim i sustav, to ružnije izgleda u režimskim medijima (i da, tu spadaju i treš portali poput Indexa).
+
+Za stvarnu sliku o političkim opcijama, uvijek je bolje da sami pročitate njihov program, nego da vjerujete onome što
+piše u medijima. Mediji su tu da vam prodaju klikove, a ne istinu.
 
 # Zaključak
 
