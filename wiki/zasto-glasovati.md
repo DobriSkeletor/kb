@@ -210,6 +210,8 @@ Nemojte biti promatrači koji komentiraju izbore po birtijama.
 
 Poanta je, ipak, da ih promijenite.
 
+![Voting is a chess move](assets/img/zasto-glasovati-chess-move.jpg)
+
 [veritasium-game-theory]: https://www.youtube.com/watch?v=mScpHTIi-kM
 [cista-provo]: https://www.youtube.com/watch?v=jUc5867hNik
 [bystander-effect]: https://en.wikipedia.org/wiki/Bystander_effect
