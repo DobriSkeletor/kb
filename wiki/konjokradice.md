@@ -73,9 +73,11 @@ Foundationa.)
 Ovo sve zapravo opisuje jedan stari ljevičarski pojam - [socijalno ubojstvo][social-murder]. Danas malo tko zna taj
 pojam, ali imamo i slične moderne "ne-lijeve" inačice iz društvenih znanosti: [disease of despair][], [shit life
 syndrome][], [diseases of poverty][], itd. Svaki od tih pojmova vrlo jasno povezuje određene bolesti i preuranjene smrti
-sa siromaštvom, ali ignorira ključnu komponentu: koji je glavni uzrok siromaštva? Imamo značajno više resursa nego
-ikada, i neopisivo bolju infrastrukturu za raspodjelu istih, kako je moguće da još uvijek imamo _ikakvo_ ekstremno
-siromaštvo, i to u navodno najbogatijim državama na svijetu?
+sa siromaštvom, ali ignorira ključnu komponentu: [koji je glavni uzrok siromaštva][unlearning-economics-pinker]? Imamo
+značajno više resursa nego ikada, i neopisivo bolju infrastrukturu za raspodjelu istih, kako je moguće da još uvijek
+imamo _ikakvo_ ekstremno siromaštvo, i to u navodno najbogatijim državama na svijetu?
+
+![Med School Stress]({{ 'assets/img/konjokradice/stres.jpg' | relative_url }})
 
 U puno slučajeva, radi se o svjesnom odabiru - netko je u nekom momentu odlučio da će financirati stvar A umjesto B, ili
 da će donijeti zakon X s dalekosežnim (i unaprijed poznatim!) negativnim posljedicama za najranjivije slojeve društva.
@@ -171,6 +173,7 @@ sukrivac. Odnosno, [not all poduzetniks][notallmen], but somehow [always a poduz
 [disease of despair]: https://en.wikipedia.org/wiki/Disease_of_despair
 [shit life syndrome]: https://en.wikipedia.org/wiki/Shit_life_syndrome
 [diseases of poverty]: https://en.wikipedia.org/wiki/Diseases_of_poverty
+[unlearning-economics-pinker]: https://www.youtube.com/watch?v=fo2gwS4VpHc
 [redlining]: https://en.wikipedia.org/wiki/Redlining
 [churchill-famine]: https://en.wikipedia.org/wiki/Racial_views_of_Winston_Churchill#Bengal_famine
 [stalin-famine]: https://en.wikipedia.org/wiki/Soviet_famine_of_1930%E2%80%931933
